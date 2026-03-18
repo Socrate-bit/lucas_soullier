@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Soullier</h1>
-<h3 align="center">A hybrid profile bridging a 4-year foundational medical curriculum with advanced Computer Science and Machine Learning</h3>
+<h4 align="center">A hybrid profile bridging a 4-year foundational medical curriculum withComputer Science and Machine Learning</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
